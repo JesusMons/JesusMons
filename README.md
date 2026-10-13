@@ -15,7 +15,7 @@ Escribo código que elimina trabajo manual. En mi empleo actual (Analista de Cal
 | [RichBot](https://richbot.jesusdev.qzz.io) | Laboratorio cuantitativo para futuros cripto en modo paper: backtest, walk-forward purgado, PBO y Deflated Sharpe Ratio | Python · backtesting |
 | [Facturín](https://facturin.jesusdev.qzz.io) | Recordatorios de facturas de servicios públicos para personas con poca experiencia tecnológica | Python · Playwright · scraping programado |
 | [Transporte Escolar](https://github.com/JesusMons/TRANSPORTE-ESCOLAR-) | Gestión integral de transporte escolar con JWT, refresh tokens y RBAC propio | Angular 20 · Node.js · Express · TypeScript · Sequelize |
-| ScanBudget | App móvil que extrae datos de facturas con OCR y la API de Gemini y clasifica gastos | Flutter · Dart · Gemini API |
+| [FinTrack AI](https://fintrackai.jesusdev.qzz.io) | App Android de finanzas personales (beta, equipo de 2): registra gastos por texto, voz o foto del recibo, extrae monto y comercio con OCR y sugiere la categoría; datos cifrados en el dispositivo | Flutter · Dart · Riverpod · Drift + SQLCipher · ML Kit |
 | [ARIA: Último Protocolo](https://github.com/JesusMons/ARIA) | FPS de ciencia ficción en equipo de 4: guardado persistente, objetivos, UI y efectos | Unity 6 · C# · URP |
 
 ## 🛠️ Tecnologías
